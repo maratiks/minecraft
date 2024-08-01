@@ -1,0 +1,67 @@
+header{ 
+    height:200px ; /*высота блока*/
+    background-color: rgb(152, 15, 145); /*цвет фона*/
+ color: rgb(4, 4, 3); /*цвет текста*/
+ text-align:  center;
+ font-size: 20px;
+ 
+
+ background-image:url(https://cdn.kanobu.ru/screenshots/50/e51827e9-068d-4f1e-89e9-0463f0468aea.jpg
+ ) ;
+ background-size:cover ;
+ background-position:center;
+ font-family: Minecraft Rus;
+ text-shadow: 5px 10px 10px black;
+}
+main{
+    height: 100%;
+color: rgb(255, 255, 255);
+text-align: center;
+font-size: 40px;
+background-image: url(https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70070000016597/0a33bcaba879403460afe2ff2aafaaefeede964e0fc11a430f71077867cc87f1);
+background-repeat: no-repeat;
+background-size: cover;
+font-family: Minecraft Rus;
+text-shadow: 5px 10px 10px black;
+background-position: top;
+background-attachment: fixed;
+padding: 30px;
+}
+footer{
+    height:719px;
+    background-color: rgb(250, 219, 255);
+    color: rgb(0, 0, 0);
+text-align: center;
+font-size: 20px;
+background-image: url(https://i.ytimg.com/vi/oh2pvWTSJp0/maxresdefault.jpg);
+background-position:center;
+font-family: Minecraft Rus;
+
+
+
+}
+body{
+    margin: 12px;
+
+}
+h1{
+margin:10px;
+padding: 30px;
+
+}
+.text{
+    margin: 0;
+    padding-bottom:  20px;
+}
+.social img{
+width: 100px;
+padding-right: 30px;
+
+
+}
+.social{
+list-style: none;
+
+}
+
+
